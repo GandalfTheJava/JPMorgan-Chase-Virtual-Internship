@@ -10,6 +10,4 @@ This repository contains the submitted patch files of the various tasks assigned
 
 //incoming certificate of completion
 
-## For any queries/doubts:
-
 
